@@ -28,5 +28,6 @@ setup(
     author='Joseph',
     author_email='kbjoseph2@gmail.com',
     packages=find_packages(),
-    instll_requires=get_requirements('requirements.txt'),
+    install_requires=get_requirements('requirements.txt'),
+    
 )

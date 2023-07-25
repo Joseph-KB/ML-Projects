@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 #Enter Local Folders
+artifact
 PersonalDownloadsScreenshots/
